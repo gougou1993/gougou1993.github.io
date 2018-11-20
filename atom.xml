@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-15T07:59:00.170Z</updated>
+  <updated>2018-11-20T06:43:01.981Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>微信小程序开发</title>
-    <link href="http://yoursite.com/2018/11/15/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/"/>
-    <id>http://yoursite.com/2018/11/15/微信小程序开发/</id>
-    <published>2018-11-15T15:59:00.000Z</published>
-    <updated>2018-11-15T07:59:00.170Z</updated>
+    <title>Hexo-Admin插件</title>
+    <link href="http://yoursite.com/2018/11/20/Hexo-Admin%E6%8F%92%E4%BB%B6/"/>
+    <id>http://yoursite.com/2018/11/20/Hexo-Admin插件/</id>
+    <published>2018-11-20T14:43:01.000Z</published>
+    <updated>2018-11-20T06:43:01.981Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
     
     </summary>
     
@@ -31,13 +38,20 @@
   </entry>
   
   <entry>
-    <title>vue.js学习</title>
-    <link href="http://yoursite.com/2018/11/15/vue-js%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://yoursite.com/2018/11/15/vue-js学习/</id>
-    <published>2018-11-15T15:57:55.000Z</published>
-    <updated>2018-11-15T07:57:55.684Z</updated>
+    <title>Typora学习</title>
+    <link href="http://yoursite.com/2018/11/19/typora%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://yoursite.com/2018/11/19/typora学习/</id>
+    <published>2018-11-19T15:57:55.000Z</published>
+    <updated>2018-11-20T05:36:44.067Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="标题1"><a href="#标题1" class="headerlink" title="标题1"></a>标题1</h1><h2 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h2><h2 id="标题3"><a href="#标题3" class="headerlink" title="标题3"></a>标题3</h2><h4 id="标题4"><a href="#标题4" class="headerlink" title="标题4"></a>标题4</h4><h5 id="标题5"><a href="#标题5" class="headerlink" title="标题5"></a>标题5</h5><p>普通文本</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
     
     </summary>
     
@@ -51,13 +65,13 @@
     <published>2018-11-15T15:23:05.000Z</published>
     <updated>2018-11-15T07:49:23.250Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h1><p>在想要设置为标题的文字前面加#来标书一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。注：标准语法一般在#后跟个空格再写文字。</p><h1 id="二、字体"><a href="#二、字体" class="headerlink" title="二、字体"></a>二、字体</h1><ol><li>要<strong>加粗</strong>的文字左右分别用两个*号包起来</li><li>要<em>倾斜</em>的文字左右分别用一个*号包起来</li><li>要<strong><em>倾斜和加粗</em></strong>的文字左右分别用三个*号包起来</li><li>要加<del>删除线</del>的文字左右分别用两个~~号包起来</li></ol><h1 id="三、引用"><a href="#三、引用" class="headerlink" title="三、引用"></a>三、引用</h1><p>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;<br>n个…貌似可以一直加下去，但没神马卵用。</p><blockquote><p>这里是引用的内容</p><blockquote><p>这里是引用的内容</p></blockquote></blockquote><h1 id="四、分割线"><a href="#四、分割线" class="headerlink" title="四、分割线"></a>四、分割线</h1><h2 id="三个或者三个以上的-或者-都可以"><a href="#三个或者三个以上的-或者-都可以" class="headerlink" title="三个或者三个以上的-或者*都可以"></a>三个或者三个以上的-或者*都可以</h2><hr><hr><hr><h1 id="五、图片"><a href="#五、图片" class="headerlink" title="五、图片"></a>五、图片</h1><p><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg" alt="图片alt" title="图片title"></p><h1 id="六、超链接"><a href="#六、超链接" class="headerlink" title="六、超链接"></a>六、超链接</h1><p><a href="http://baidu.com" target="_blank" rel="noopener">百度</a></p><h1 id="七、列表"><a href="#七、列表" class="headerlink" title="七、列表"></a>七、列表</h1><ul><li>无序列表</li></ul><p>语法：<br>无序列表用 - + * 任何一种都可以</p><ul><li>列表内容1</li><li>列表内容2</li><li>列表内容3</li><li>列表内容4</li></ul><p>语法：<br>有序列表用数字</p><ol><li>列表内容</li><li>列表内容</li><li>列表内容</li></ol><p>注意：序号跟内容之间要有空格</p><h1 id="八、表格"><a href="#八、表格" class="headerlink" title="八、表格"></a>八、表格</h1><table><thead><tr><th>姓名</th><th style="text-align:center">技能</th><th style="text-align:right">排行</th></tr></thead><tbody><tr><td>孙悟空</td><td style="text-align:center">72变</td><td style="text-align:right">大师兄</td></tr><tr><td>猪八戒</td><td style="text-align:center">36变</td><td style="text-align:right">二师兄</td></tr><tr><td>沙  增</td><td style="text-align:center">18变</td><td style="text-align:right">三师弟</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h1><p>在想要设置为标题的文字前面加#来标书一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。注：标准语法一般在#后跟个空格再写文字。</p><h1 id="二、字体"><a href="#二、字体" class="headerlink" title="二、字体"></a>二、字体</h1><ol><li>要<strong>加粗</strong>的文字左右分别用两个*号包起来</li><li>要<em>倾斜</em>的文字左右分别用一个*号包起来</li><li>要<strong><em>倾斜和加粗</em></strong>的文字左右分别用三个*号包起来</li><li>要加<del>删除线</del>的文字左右分别用两个~~号包起来</li></ol><h1 id="三、引用"><a href="#三、引用" class="headerlink" title="三、引用"></a>三、引用</h1><p>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;<br>n个…貌似可以一直加下去，但没神马卵用。</p><blockquote><p>这里是引用的内容</p><blockquote><p>这里是引用的内容</p></blockquote></blockquote><h1 id="四、分割线"><a href="#四、分割线" class="headerlink" title="四、分割线"></a>四、分割线</h1><h2 id="三个或者三个以上的-或者-都可以"><a href="#三个或者三个以上的-或者-都可以" class="headerlink" title="三个或者三个以上的-或者*都可以"></a>三个或者三个以上的-或者*都可以</h2><hr><hr><hr><h1 id="五、图片"><a href="#五、图片" class="headerlink" title="五、图片"></a>五、图片</h1><p><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg" alt="图片alt" title="图片title"></p><h1 id="六、超链接"><a href="#六、超链接" class="headerlink" title="六、超链接"></a>六、超链接</h1><p><a href="http://baidu.com" target="_blank" rel="noopener">百度</a></p><h1 id="七、列表"><a href="#七、列表" class="headerlink" title="七、列表"></a>七、列表</h1><ul><li>无序列表</li></ul><p>语法：<br>无序列表用 - + * 任何一种都可以</p><ul><li>列表内容1</li><li>列表内容2</li><li>列表内容3</li><li>列表内容4</li></ul><p>语法：<br>有序列表用数字</p><ol><li>列表内容</li><li>列表内容</li><li>列表内容</li></ol><p>注意：序号跟内容之间要有空格</p><h1 id="八、表格"><a href="#八、表格" class="headerlink" title="八、表格"></a>八、表格</h1><table><thead><tr><th>姓名</th><th style="text-align:center">技能</th><th style="text-align:right">排行</th></tr></thead><tbody><tr><td>孙悟空</td><td style="text-align:center">72变</td><td style="text-align:right">大师兄</td></tr><tr><td>猪八戒</td><td style="text-align:center">36变</td><td style="text-align:right">二师兄</td></tr><tr><td>沙  增</td><td style="text-align:center">18变</td><td style="text-align:right">三师弟</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;一、标题&quot;&gt;&lt;a href=&quot;#一、标题&quot; class=&quot;headerlink&quot; title=&quot;一、标题&quot;&gt;&lt;/a&gt;一、标题&lt;/h1&gt;&lt;p&gt;在想要设置为标题的文字前面加#来标书一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。注：标准语法一般在#后跟个空
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
@@ -72,13 +86,13 @@
     <published>2018-11-15T10:22:27.000Z</published>
     <updated>2018-11-16T07:04:58.322Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Name</span></span>&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Name</span></span>&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Hexo&quot;&gt;&lt;a href=&quot;#Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hexo&quot;&gt;&lt;/a&gt;Hexo&lt;/h2&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
@@ -103,13 +117,13 @@
     <published>2018-11-15T02:09:04.919Z</published>
     <updated>2018-11-16T06:39:34.911Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start-快速开始"><a href="#Quick-Start-快速开始" class="headerlink" title="Quick Start(快速开始)"></a>Quick Start(快速开始)</h2><h3 id="Create-a-new-post-新建一个博客"><a href="#Create-a-new-post-新建一个博客" class="headerlink" title="Create a new post(新建一个博客)"></a>Create a new post(新建一个博客)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><p>更多信息访问: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">写作</a></p><h3 id="Run-server-启动服务"><a href="#Run-server-启动服务" class="headerlink" title="Run server (启动服务)"></a>Run server (启动服务)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a><br>更多信息访问: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">服务器</a></p><h3 id="Generate-static-files-生成静态文件"><a href="#Generate-static-files-生成静态文件" class="headerlink" title="Generate static files (生成静态文件)"></a>Generate static files (生成静态文件)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a><br>更多信息访问: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">生成</a></p><h3 id="Deploy-to-remote-sites-部署到远程站点"><a href="#Deploy-to-remote-sites-部署到远程站点" class="headerlink" title="Deploy to remote sites (部署到远程站点)"></a>Deploy to remote sites (部署到远程站点)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a><br>更多信息访问: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">部署</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start-快速开始"><a href="#Quick-Start-快速开始" class="headerlink" title="Quick Start(快速开始)"></a>Quick Start(快速开始)</h2><h3 id="Create-a-new-post-新建一个博客"><a href="#Create-a-new-post-新建一个博客" class="headerlink" title="Create a new post(新建一个博客)"></a>Create a new post(新建一个博客)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><p>更多信息访问: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">写作</a></p><h3 id="Run-server-启动服务"><a href="#Run-server-启动服务" class="headerlink" title="Run server (启动服务)"></a>Run server (启动服务)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a><br>更多信息访问: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">服务器</a></p><h3 id="Generate-static-files-生成静态文件"><a href="#Generate-static-files-生成静态文件" class="headerlink" title="Generate static files (生成静态文件)"></a>Generate static files (生成静态文件)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a><br>更多信息访问: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">生成</a></p><h3 id="Deploy-to-remote-sites-部署到远程站点"><a href="#Deploy-to-remote-sites-部署到远程站点" class="headerlink" title="Deploy to remote sites (部署到远程站点)"></a>Deploy to remote sites (部署到远程站点)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a><br>更多信息访问: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">部署</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
