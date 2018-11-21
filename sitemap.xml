@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/404.html</loc>
+    
+    <lastmod>2018-11-21T03:17:38.714Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/11/21/GithubPage/</loc>
+    
+    <lastmod>2018-11-21T01:58:56.708Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/11/15/%E4%BD%A0%E5%A5%BD-Hexo/</loc>
     
     <lastmod>2018-11-16T07:04:58.322Z</lastmod>

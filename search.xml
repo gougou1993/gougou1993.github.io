@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[GithubPage]]></title>
+    <url>%2F2018%2F11%2F21%2FGithubPage%2F</url>
+    <content type="text"><![CDATA[Github Page种类UserPage: 用户的整个站点, 这个是最出github支持的类型, 创建一个形如username.github.io的项目就可以 ProjectPage: 用户创建出来的项目也可以创建站点, 创建一个项目后, 在建立一个名叫gh-pages的branch, 这个branch里的文件就是page的站点文件 UserPage默认域名用户站点的默认域名是username.github.io, 比如笔者的站点就是gougou1993.github.io ProjectPage默认域名项目的默认域名, 是使用UserPage域名加上二级目录实现的, 比如笔者有个项目叫, 那么该项目的站点就是访问 gougou1993.github.io/your_project_name UserPage自定义域名我有自己的域名, 如何绑定到UserPage? 比如用www.gougou1993.com替代gougou1993.github.io他是使用CNAME技术来实现的具体步骤:去域名注册商那里, 做一个CNAME指向, 将www.gougou1993.com 指向 gougou1993.github.io,在gougou1993/gougou1993.github.com这个项目(也就是page项目)根目录下建一个CNAME文件, 里面填写www.gougou1993.com, 然后提交到仓库;CNAME指向之后, 当浏览器访问www.gougou1993.com的时候浏览器就知道实际上是访问gougou1993.github.io添加CNAME 文件之后, 当GithubPage服务器接收到访问www.gougou1993.com的http请求, 就知道, 对应的是这个工程了. ProjectPage自定义域名比如用your_project_name.gougou1993.com替代gougou1993.github.io/your_project_name同样的, 去域名注册商那里, 做一个CNAME指向, 将your_project_name.gougou1993.com 指向 gougou1993.github.io, 如果以后会有很多二级域名都指过来, 其实可以做一个模糊二级指过来, 比如*.gougou1993.com在gougou1993/your_project_name这个项目(也就是page项目)根目录下建一个CNAME文件, 里面填写your_project_name.gougou1993.com, 然后提交到仓库.]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[markdown学习]]></title>
     <url>%2F2018%2F11%2F15%2Fmarkdown%E5%AD%A6%E4%B9%A0%2F</url>
     <content type="text"><![CDATA[一、标题在想要设置为标题的文字前面加#来标书一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。注：标准语法一般在#后跟个空格再写文字。 二、字体 要加粗的文字左右分别用两个*号包起来 要倾斜的文字左右分别用一个*号包起来 要倾斜和加粗的文字左右分别用三个*号包起来 要加删除线的文字左右分别用两个~~号包起来 三、引用在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;n个…貌似可以一直加下去，但没神马卵用。 这里是引用的内容 这里是引用的内容 四、分割线三个或者三个以上的-或者*都可以 五、图片 六、超链接百度 七、列表 无序列表 语法：无序列表用 - + * 任何一种都可以 列表内容1 列表内容2 列表内容3 列表内容4 语法：有序列表用数字 列表内容 列表内容 列表内容 注意：序号跟内容之间要有空格 八、表格 姓名 技能 排行 孙悟空 72变 大师兄 猪八戒 36变 二师兄 沙 增 18变 三师弟]]></content>

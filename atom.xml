@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-15T07:49:23.250Z</updated>
+  <updated>2018-11-21T01:58:56.708Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GithubPage</title>
+    <link href="http://yoursite.com/2018/11/21/GithubPage/"/>
+    <id>http://yoursite.com/2018/11/21/GithubPage/</id>
+    <published>2018-11-21T09:48:33.000Z</published>
+    <updated>2018-11-21T01:58:56.708Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Github-Page种类"><a href="#Github-Page种类" class="headerlink" title="Github Page种类"></a>Github Page种类</h1><p>UserPage: 用户的整个站点, 这个是最出github支持的类型, 创建一个形如username.github.io的项目就可以</p><p>ProjectPage: 用户创建出来的项目也可以创建站点, 创建一个项目后, 在建立一个名叫gh-pages的branch, 这个branch里的文件就是page的站点文件</p><h1 id="UserPage默认域名"><a href="#UserPage默认域名" class="headerlink" title="UserPage默认域名"></a>UserPage默认域名</h1><p>用户站点的默认域名是username.github.io, 比如笔者的站点就是gougou1993.github.io</p><h1 id="ProjectPage默认域名"><a href="#ProjectPage默认域名" class="headerlink" title="ProjectPage默认域名"></a>ProjectPage默认域名</h1><p>项目的默认域名, 是使用UserPage域名加上二级目录实现的, 比如笔者有个项目叫, 那么该项目的站点就是访问 gougou1993.github.io/your_project_name</p><h1 id="UserPage自定义域名"><a href="#UserPage自定义域名" class="headerlink" title="UserPage自定义域名"></a>UserPage自定义域名</h1><p>我有自己的域名, 如何绑定到UserPage? 比如用<a href="http://www.gougou1993.com替代gougou1993.github.io他是使用CNAME技术来实现的" target="_blank" rel="noopener">www.gougou1993.com替代gougou1993.github.io他是使用CNAME技术来实现的</a><br>具体步骤:<br>去域名注册商那里, 做一个CNAME指向, 将<a href="http://www.gougou1993.com" target="_blank" rel="noopener">www.gougou1993.com</a> 指向 gougou1993.github.io,<br>在gougou1993/gougou1993.github.com这个项目(也就是page项目)根目录下建一个CNAME文件, 里面填写<a href="http://www.gougou1993.com" target="_blank" rel="noopener">www.gougou1993.com</a>, 然后提交到仓库;<br>CNAME指向之后, 当浏览器访问<a href="http://www.gougou1993.com的时候浏览器就知道实际上是访问gougou1993.github.io" target="_blank" rel="noopener">www.gougou1993.com的时候浏览器就知道实际上是访问gougou1993.github.io</a><br>添加CNAME 文件之后, 当GithubPage服务器接收到访问<a href="http://www.gougou1993.com的http请求" target="_blank" rel="noopener">www.gougou1993.com的http请求</a>, 就知道, 对应的是这个工程了.</p><h1 id="ProjectPage自定义域名"><a href="#ProjectPage自定义域名" class="headerlink" title="ProjectPage自定义域名"></a>ProjectPage自定义域名</h1><p>比如用your_project_name.gougou1993.com替代gougou1993.github.io/your_project_name<br>同样的, 去域名注册商那里, 做一个CNAME指向, 将your_project_name.gougou1993.com 指向 gougou1993.github.io, 如果以后会有很多二级域名都指过来, 其实可以做一个模糊二级指过来, 比如*.gougou1993.com<br>在gougou1993/your_project_name这个项目(也就是page项目)根目录下建一个CNAME文件, 里面填写your_project_name.gougou1993.com, 然后提交到仓库.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>markdown学习</title>
